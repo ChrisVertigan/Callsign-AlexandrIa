@@ -1,0 +1,4 @@
+AI_Assistant.MainActivity, AI Assistant;md53ee7af1cc01e741e2d4627697ff83ae4.MainActivity
+AI_Assistant.MainActivity, AI Assistant, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53ee7af1cc01e741e2d4627697ff83ae4.MainActivity
+AI_Assistant.MainActivity;md53ee7af1cc01e741e2d4627697ff83ae4.MainActivity
+ai_assistant.MainActivity;md53ee7af1cc01e741e2d4627697ff83ae4.MainActivity

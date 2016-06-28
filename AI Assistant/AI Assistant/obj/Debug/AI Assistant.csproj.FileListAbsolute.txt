@@ -1,0 +1,15 @@
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\bin\Debug\AI Assistant.dll
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\bin\Debug\AI Assistant.pdb
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\bin\Debug\AI_Assistant.AI_Assistant.apk
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\bin\Debug\AI_Assistant.AI_Assistant-Signed.apk
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\obj\Debug\AI Assistant.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\obj\Debug\AI Assistant.dll
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\obj\Debug\AI Assistant.pdb
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\obj\Debug\android\bin\AI_Assistant.AI_Assistant.apk
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\obj\Debug\res\layout\main.xml
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\obj\Debug\res\values\strings.xml
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\obj\Debug\res\drawable\icon.png
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\obj\Debug\R.cs.flag
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\obj\Debug\uploadflags.txt
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\obj\Debug\AI Assistant.dll.mdb
+C:\Users\Chris\Documents\GitHub\Callsign-AlexandrIa\AI Assistant\AI Assistant\bin\Debug\AI Assistant.dll.mdb
